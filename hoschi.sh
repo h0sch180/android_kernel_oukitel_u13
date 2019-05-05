@@ -8,4 +8,4 @@ make clean && make mrproper
 
 make mt6753_U13_defconfig
 
-make -j12
+make -j24
